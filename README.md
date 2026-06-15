@@ -40,39 +40,13 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,figma,canva,notion" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python," />
 </p>
 
 <p align="center">🌸 🌷 🌸 🌷 🌸</p>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SumedhaMandal&theme=rose_pine&no-frame=true&no-bg=true&margin-w=4" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=SumedhaMandal&show_icons=true&theme=rose_pine&title_color=FFB6C1&icon_color=FFC0CB&hide_border=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumedhaMandal&theme=rose_pine&hide_border=true" width="49%"/>
-</div>
-
-<p align="center">🌸 🌷 🌸 🌷 🌸</p>
-
----
-
-## 🌷 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SumedhaMandal&theme=tokyo-night-pink&hide_border=true" />
-</div>
-
----
-
-## 🐰 Language Usage
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumedhaMandal&layout=compact&theme=rose_pine&title_color=FFB6C1" />
-</div>
-
----
 
 <h3 align="center">Catch u on the next push 🚀💗</h3>
 
